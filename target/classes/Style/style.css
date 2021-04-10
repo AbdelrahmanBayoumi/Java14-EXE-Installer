@@ -1,0 +1,24 @@
+.root{
+-fx-background-color: #F5F7FE;
+}
+.header{
+-fx-background-color: #323759;
+}
+.header .label{
+-fx-text-fill: white;
+}
+.exe-btn{
+-fx-background-color: #418BCA;
+}
+.exe-btn:hover{
+-fx-background-color: derive(#418BCA, -20%);
+}
+.clear-btn{
+-fx-background-color: #FF0000;
+}
+.clear-btn:hover{
+-fx-background-color: derive(#FF0000, -20%);
+}
+.icon{
+-fx-fill: #323759;
+}

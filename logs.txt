@@ -1,0 +1,173 @@
+[13-04-2020] [07:05:58 PM] => App Launched
+[13-04-2020] [07:05:58 PM] => Exception[ 
+/D:/Work/Coding/IDEA%20Projects/EXE_Installer/target/classes/MainView/MainView.fxml:17
+ ] in => main.MainClass
+[13-04-2020] [07:10:02 PM] => App Launched
+[13-04-2020] [07:10:04 PM] => Exception[ URL must not be empty ] in => main.MainClass
+[13-04-2020] [07:21:25 PM] => App Launched
+[13-04-2020] [07:21:29 PM] => App closed - Used for 4209 ms
+
+[13-04-2020] [07:21:52 PM] => App Launched
+[13-04-2020] [07:24:05 PM] => App Launched
+[13-04-2020] [07:24:19 PM] => App closed - Used for 14299 ms
+
+[13-04-2020] [07:28:15 PM] => App Launched
+[13-04-2020] [07:28:19 PM] => App closed - Used for 4025 ms
+
+[13-04-2020] [07:28:37 PM] => App Launched
+[13-04-2020] [07:28:55 PM] => App closed - Used for 17486 ms
+
+[13-04-2020] [07:35:17 PM] => App Launched
+[13-04-2020] [07:35:32 PM] => App closed - Used for 14897 ms
+
+[13-04-2020] [07:40:40 PM] => App Launched
+[13-04-2020] [07:41:12 PM] => App closed - Used for 31765 ms
+
+[13-04-2020] [07:50:23 PM] => App Launched
+[13-04-2020] [07:50:23 PM] => Exception[ 
+/D:/Work/Coding/IDEA%20Projects/EXE_Installer/target/classes/MainView/MainView.fxml
+ ] in => main.MainClass
+[13-04-2020] [08:42:19 PM] => App Launched
+[13-04-2020] [08:43:09 PM] => App closed - Used for 49501 ms
+
+[13-04-2020] [08:50:13 PM] => App Launched
+[13-04-2020] [08:52:21 PM] => App Launched
+[13-04-2020] [08:52:46 PM] => App closed - Used for 24247 ms
+
+[13-04-2020] [08:53:13 PM] => App Launched
+[13-04-2020] [08:53:40 PM] => App closed - Used for 26287 ms
+
+[13-04-2020] [09:02:09 PM] => App Launched
+[13-04-2020] [09:03:17 PM] => App closed - Used for 68507 ms
+
+[13-04-2020] [09:37:19 PM] => App Launched
+[13-04-2020] [09:51:05 PM] => App closed - Used for 825389 ms
+
+[13-04-2020] [09:51:34 PM] => App Launched
+[13-04-2020] [09:51:39 PM] => App closed - Used for 5430 ms
+
+[13-04-2020] [09:52:13 PM] => App Launched
+[13-04-2020] [09:52:19 PM] => App closed - Used for 5965 ms
+
+[13-04-2020] [09:52:37 PM] => App Launched
+[13-04-2020] [09:54:06 PM] => App closed - Used for 89291 ms
+
+[13-04-2020] [09:54:14 PM] => App Launched
+[13-04-2020] [09:54:59 PM] => App closed - Used for 45370 ms
+
+[13-04-2020] [09:57:51 PM] => App Launched
+[13-04-2020] [10:04:17 PM] => App closed - Used for 386385 ms
+
+[13-04-2020] [10:05:51 PM] => App Launched
+[13-04-2020] [10:07:09 PM] => App closed - Used for 77657 ms
+
+[13-04-2020] [10:07:15 PM] => App Launched
+[13-04-2020] [10:11:52 PM] => App closed - Used for 276936 ms
+
+[13-04-2020] [10:26:58 PM] => App Launched
+[13-04-2020] [10:29:45 PM] => App closed - Used for 166799 ms
+
+[13-04-2020] [10:30:16 PM] => App Launched
+[13-04-2020] [10:30:31 PM] => App closed - Used for 15382 ms
+
+[13-04-2020] [10:30:50 PM] => App Launched
+[13-04-2020] [10:30:58 PM] => App closed - Used for 7180 ms
+
+[13-04-2020] [10:31:20 PM] => App Launched
+[13-04-2020] [10:31:31 PM] => App closed - Used for 10972 ms
+
+[13-04-2020] [10:35:22 PM] => App Launched
+[13-04-2020] [10:35:34 PM] => App closed - Used for 11713 ms
+
+[13-04-2020] [10:36:08 PM] => App Launched
+[13-04-2020] [10:36:18 PM] => App closed - Used for 9337 ms
+
+[13-04-2020] [10:38:32 PM] => App Launched
+[13-04-2020] [10:38:47 PM] => App closed - Used for 14884 ms
+
+[13-04-2020] [10:41:19 PM] => App Launched
+[13-04-2020] [10:41:23 PM] => App closed - Used for 4756 ms
+
+[13-04-2020] [10:41:46 PM] => App Launched
+[13-04-2020] [10:41:51 PM] => App closed - Used for 4744 ms
+
+[13-04-2020] [10:42:34 PM] => App Launched
+[13-04-2020] [10:42:40 PM] => App closed - Used for 5511 ms
+
+[13-04-2020] [10:43:28 PM] => App Launched
+[13-04-2020] [10:43:34 PM] => App closed - Used for 5516 ms
+
+[13-04-2020] [10:43:52 PM] => App Launched
+[13-04-2020] [10:43:55 PM] => App closed - Used for 3447 ms
+
+[13-04-2020] [10:50:52 PM] => App Launched
+[13-04-2020] [10:51:09 PM] => App closed - Used for 16609 ms
+
+[13-04-2020] [10:51:41 PM] => App Launched
+[13-04-2020] [10:52:17 PM] => App Launched
+[13-04-2020] [10:52:55 PM] => App Launched
+[13-04-2020] [10:53:46 PM] => App Launched
+[13-04-2020] [10:54:08 PM] => App closed - Used for 22171 ms
+
+[13-04-2020] [10:54:33 PM] => App Launched
+[13-04-2020] [10:54:46 PM] => App closed - Used for 12640 ms
+
+[13-04-2020] [10:54:59 PM] => App Launched
+[13-04-2020] [10:55:07 PM] => App closed - Used for 7426 ms
+
+[13-04-2020] [10:55:54 PM] => App Launched
+[13-04-2020] [10:56:02 PM] => App closed - Used for 8601 ms
+
+[13-04-2020] [10:57:18 PM] => App Launched
+[13-04-2020] [10:57:23 PM] => App closed - Used for 5072 ms
+
+[13-04-2020] [10:57:51 PM] => App Launched
+[13-04-2020] [10:57:58 PM] => App closed - Used for 6485 ms
+
+[13-04-2020] [11:00:00 PM] => App Launched
+[13-04-2020] [11:00:04 PM] => App closed - Used for 4453 ms
+
+[13-04-2020] [11:00:29 PM] => App Launched
+[13-04-2020] [11:00:32 PM] => App closed - Used for 3063 ms
+
+[13-04-2020] [11:02:06 PM] => App Launched
+[13-04-2020] [11:02:12 PM] => App closed - Used for 6104 ms
+
+[13-04-2020] [11:03:56 PM] => App Launched
+[13-04-2020] [11:04:03 PM] => App closed - Used for 6087 ms
+
+[13-04-2020] [11:04:13 PM] => App Launched
+[13-04-2020] [11:04:17 PM] => App closed - Used for 3988 ms
+
+[13-04-2020] [11:05:15 PM] => App Launched
+[13-04-2020] [11:05:18 PM] => App closed - Used for 2949 ms
+
+[13-04-2020] [11:05:24 PM] => App Launched
+[13-04-2020] [11:05:33 PM] => App closed - Used for 9257 ms
+
+[14-04-2020] [01:23:20 AM] => App Launched
+[14-04-2020] [01:23:27 AM] => App closed - Used for 6998 ms
+
+[15-04-2020] [12:53:00 AM] => App Launched
+[15-04-2020] [12:53:04 AM] => App closed - Used for 3677 ms
+
+[25-06-2020] [11:16:30 PM] => App Launched
+[25-06-2020] [11:16:47 PM] => App closed - Used for 17369 ms
+
+[25-06-2020] [11:17:21 PM] => App Launched
+[25-06-2020] [11:17:34 PM] => App closed - Used for 12518 ms
+
+[11-10-2020] [05:23:43 PM] => App Launched
+[30-01-2021] [05:31:47 PM] => App Launched
+[30-01-2021] [05:35:15 PM] => App Launched
+[30-01-2021] [05:36:58 PM] => App Launched
+[30-01-2021] [05:36:59 PM] => Exception[ null ] in => main.MainClass
+[30-01-2021] [05:37:08 PM] => App Launched
+[30-01-2021] [05:37:09 PM] => Exception[ null ] in => main.MainClass
+[30-01-2021] [05:37:28 PM] => App Launched
+[30-01-2021] [05:37:29 PM] => Exception[ null ] in => main.MainClass
+[30-01-2021] [05:39:29 PM] => App Launched
+[30-01-2021] [05:39:30 PM] => Exception[ null ] in => main.MainClass
+[30-01-2021] [06:35:07 PM] => App Launched
+[30-01-2021] [06:35:09 PM] => Exception[ null ] in => main.MainClass
+[30-01-2021] [06:40:21 PM] => App Launched
