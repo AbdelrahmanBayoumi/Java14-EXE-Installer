@@ -2,8 +2,6 @@
 
 EXE Installer Generator using One Jar - **_(App is not completed)_**
 
-#### 
-
 
 
 ## Screenshot
