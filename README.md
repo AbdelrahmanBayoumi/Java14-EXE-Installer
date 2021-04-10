@@ -1,5 +1,11 @@
 # Java14-EXE-Installer
 
+EXE Installer Generator using One Jar - **_(App is not completed)_**
+
+#### 
+
+
+
 ## Screenshot
 
 <div align="center">
@@ -14,6 +20,7 @@
 
 ## Requirements
 * Java 14
+* inno setup
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
